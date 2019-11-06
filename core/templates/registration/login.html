@@ -177,7 +177,9 @@ h2{
                                 </div>
                                 <br>
                                 <p><strong>-- OR --</strong></p>
-                                <a href="{% url 'social:begin' 'github' %}">Login with GitHub</a><br>
+                                <a href="{% url 'social:begin' 'github' %}">Login with GitHub</a>
+                                <a href="{% url 'social:begin' 'google-oauth2' %}">Login with Google</a>
+                                <br>
                                 <br><br>
                                 <a href="{% url 'password_reset' %}" id="forget-link">Forgot Password</a>
                               

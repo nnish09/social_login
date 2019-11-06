@@ -130,6 +130,10 @@ SOCIAL_AUTH_GITHUB_KEY = 'dcbc288e9545598f7e2f'
 SOCIAL_AUTH_GITHUB_SECRET = '143982ceb3e6c7a6c3c06fef17166c17969375a6'
 
 
+SOCIAL_AUTH_GOOGLE_OAUTH2_KEY = '918671486350-nvba7fov0f0nmb9f7an43g57krabuhrb.apps.googleusercontent.com'
+SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET = 'tkoj2Se0bzyp9oTFOFtEPzIc'
+
+
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/2.2/howto/static-files/
 
